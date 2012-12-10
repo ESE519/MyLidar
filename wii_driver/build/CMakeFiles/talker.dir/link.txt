@@ -1,0 +1,1 @@
+/usr/bin/c++   -O2 -g     -pthread CMakeFiles/talker.dir/src/test2.o  -o ../bin/talker -rdynamic -L/opt/ros/fuerte/lib -L/home/nirmiti/ros/wii_driver/include/src/libwiiuse.so -lroscpp -lrostime -lrosconsole -lroscpp_serialization -lxmlrpcpp -Wl,-rpath,/opt/ros/fuerte/lib:/home/nirmiti/ros/wii_driver/include/src/libwiiuse.so 
